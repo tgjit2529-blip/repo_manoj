@@ -1,0 +1,4 @@
+hello
+git remote add origin https://github.com/tgjit2529-blip/repo_manoj.git
+git branch -M main
+git push -u origin main
